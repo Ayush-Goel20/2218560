@@ -6,6 +6,7 @@ This is a client-side React-based URL Shortener web app .  It supports custom sh
 
 ## 📁 Folder Structure
 
+```bash
 url-shortener/
 │
 ├── public/
@@ -25,3 +26,5 @@ url-shortener/
 │
 ├── package.json
 └── README.md 
+
+```bash
